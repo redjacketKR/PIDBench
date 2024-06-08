@@ -1,0 +1,12 @@
+Version: 0.5.0.0
+CompanyName: redjacketRC
+FileDescription: RotorFlight PID Aide - Stick Response
+InternalName: PID-Aide
+LegalCopyright: ⓒ redjacketRC
+OriginalFilename: pidAide.exe
+ProductName: RotorFlight PID Aide - Stick Response
+Translation:
+  - langID: 0
+    charsetID: 1200
+  - langID: 1033
+    charsetID: 1252

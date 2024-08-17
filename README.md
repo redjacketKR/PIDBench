@@ -7,7 +7,7 @@
 
 <h2 style="color: #1976D2;">1. Introduction</h2>
 
-PIDBench is a GUI application designed for <span style="color: #0277BD;">RotorFlight Blackbox Analysis</span>. It provides tools to process and analyze <span style="color: #0277BD;">.bbl (BlackBox Log)</span> files, convert them to CSV format, and visualize step response data for roll, pitch, and yaw axes.
+PIDBench is a GUI application designed for <span style="color: #0277BD;">Rotorflight Blackbox Analysis</span>. It provides tools to process and analyze <span style="color: #0277BD;">.bbl (BlackBox Log)</span> files, convert them to CSV format, and visualize step response data for roll, pitch, and yaw axes.
 
 <h2 style="color: #1976D2;">2. Installation</h2>
 

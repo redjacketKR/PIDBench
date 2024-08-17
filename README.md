@@ -1,4 +1,5 @@
-<h1 style="color: #D32F2F;">PIDBench User Manual (v0.9)</h1>
+# 🚀 **PIDBench User Manual (v0.9)**
+
 
 <p align="center">
   <img src="https://github.com/redjacketKR/PIDBench/raw/main/redjacket-PIDBench.png" alt="PIDBench Logo" width="500"/>

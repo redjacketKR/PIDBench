@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://github.com/redjacketKR/PIDBench/raw/main/redjacket-PIDBench.png" alt="PIDBench Logo" width="500"/>
+  <img src="https://github.com/redjacketKR/PIDBench/blob/main/PIDBench_QgJ0GWfuky.png" alt="PIDBench Main Window" width="1200"/>
 </p>
 
 <h2 style="color: #1976D2;">1. Introduction</h2>

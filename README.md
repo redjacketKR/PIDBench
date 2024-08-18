@@ -1,4 +1,5 @@
 🔄 PIDBench Update Notice 🛠️
+
 An issue has been identified and resolved regarding file path resolution when processing single files. This fix ensures all file operations now use full paths, improving the application's overall reliability.
 To update your installation:
 

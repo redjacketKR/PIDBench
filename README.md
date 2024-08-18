@@ -1,9 +1,12 @@
 🔄 PIDBench Update Notice 🛠️
 
 An issue has been identified and resolved regarding file path resolution when processing single files. This fix ensures all file operations now use full paths, improving the application's overall reliability.
+
+
 To update your installation:
 
 Download the new PIDBench.exe file from the [official repository](https://github.com/redjacketKR/PIDBench/releases/download/v0.9/PIDBench.exe).
+
 Replace the existing file at C:\Program Files (x86)\redjacketRC\PIDBench\PIDBench.exe with the newly downloaded version.
 
 This update addresses the file path resolution problem. We apologize for any inconvenience caused. Your patience and feedback are greatly appreciated, as they contribute to the ongoing improvement of the software.

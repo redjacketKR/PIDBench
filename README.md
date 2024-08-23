@@ -1,3 +1,26 @@
+How to Use the BBL File Processing Script
+
+Put bbl-process.bat, bbsplit.exe, and blackbox_decode.exe in one folder.
+Open Command Prompt, use cd to go to this folder.
+Type: 
+bbl-process.bat your_file.bbl
+A new folder like 20240824_123456 will appear.
+Inside: split .bbl files and matching .csv files.
+Check for 🟢 success or 🔴 error messages.
+Original .bbl and .event files are auto-deleted.
+⚠️ Always backup your original .bbl file!
+Attachment file type: archive
+blackbox_tools_executables_batch_command.zip
+463.04 KB
+Temporary solution.
+I compared six different kind of executables and this kinda fit. 
+This is early version of INAV decoding executable. Newest one is like version 8 but I think it make some trouble.
+So use this. 
+
+ I made simple batch file for your convenience but basically it creates decoding csv file and cleaning up by removing event files
+ And make the base name the same by inputting ".01" to .Bbl file.
+
+ 
 # 🔄 PIDBench Update Notice 🛠️
 
 ## Issue Resolved

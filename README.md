@@ -3,7 +3,7 @@
 I'm pleased to announce the release of PIDBench v0.9.1, featuring several improvements and bug fixes:
 
 ## Important Setup Note:
-⚠️ It is strongly recommended to **__completely uninstall the previous version__** before installing v0.9.1 due to package updates.
+⚠️ It is strongly recommended to <span style="color: red;">completely uninstall the previous version</span> before installing v0.9.1 due to package updates.
 
 ## Key Enhancements:
 
@@ -24,7 +24,7 @@ I'm pleased to announce the release of PIDBench v0.9.1, featuring several improv
 
 The folder processing button has been removed to streamline the workflow.
 
-Thank you for your continued support and feedback. This update aims to provide a more robust and user-friendly experience for PID tuning analysis.
+Thank you for your continued support and feedback. 
 
 --------------------
 

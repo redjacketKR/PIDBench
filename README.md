@@ -1,9 +1,13 @@
+Certainly. I'll update both versions with the emphasized text. Here are the revised announcements:
+
+For GitHub:
+
 # PIDBench v0.9.1 Release
 
 I'm pleased to announce the release of PIDBench v0.9.1, featuring several improvements and bug fixes:
 
 ## Important Setup Note:
-⚠️ It is strongly recommended to completely uninstall the previous version before installing v0.9.1 due to package updates.
+⚠️ It is strongly recommended to **<span style="color: red;">completely uninstall the previous version</span>** before installing v0.9.1 due to package updates.
 
 ## Key Enhancements:
 
@@ -25,6 +29,34 @@ I'm pleased to announce the release of PIDBench v0.9.1, featuring several improv
 The folder processing button has been removed to streamline the workflow.
 
 Thank you for your continued support and feedback. This update aims to provide a more robust and user-friendly experience for PID tuning analysis.
+
+For Discord:
+
+📢 **PIDBench v0.9.1 Now Available!**
+
+I'm excited to release PIDBench v0.9.1 with several improvements:
+
+⚠️ **Setup Note:** Please **__completely uninstall the previous version__** before installing v0.9.1 due to package updates.
+
+✅ Fixed config file location (now in Documents folder)
+✅ More reliable file decoding
+✅ New Legend On/Off button
+✅ Optimized default screen size
+✅ Added tuning guide links
+✅ Resolved Numpy error messages
+
+**How to use:**
+1️⃣ Select source directory
+2️⃣ Click "PROCESS"
+3️⃣ Wait for analysis
+4️⃣ Hit "PLOT"
+5️⃣ Toggle Legend as needed
+
+The folder processing button has been removed for a more streamlined experience.
+
+Enjoy the enhanced PID tuning analysis, and feel free to share your feedback!
+
+Note: For the Discord version, I've used Discord's markdown syntax for bold and underline, as Discord doesn't support inline color styling. The underlined and bold text will stand out, emphasizing the importance of uninstalling the previous version.
 
 --------------------
 

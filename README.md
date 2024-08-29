@@ -1,25 +1,29 @@
-PIDBench v0.9.1 Release
+# PIDBench v0.9.1 Release
+
 I'm pleased to announce the release of PIDBench v0.9.1, featuring several improvements and bug fixes:
-Important Setup Note:
+
+## Important Setup Note:
 ⚠️ It is strongly recommended to completely uninstall the previous version before installing v0.9.1 due to package updates.
-Key Enhancements:
 
-📁 Relocated configuration file to user's Documents folder, resolving permission issues
-🔄 Improved file decoding reliability by switching to BlackBox decoder
-👁️ Added Legend On/Off toggle button for easier graph reading
-📏 Adjusted default screen size for better visibility
-📚 Included external resource links for tuning guides
-🐛 Fixed various Numpy-related error messages
+## Key Enhancements:
 
-Usage Updates:
+- 📁 Relocated configuration file to user's Documents folder, resolving permission issues
+- 🔄 Improved file decoding reliability by switching to BlackBox decoder
+- 👁️ Added Legend On/Off toggle button for easier graph reading
+- 📏 Adjusted default screen size for better visibility
+- 📚 Included external resource links for tuning guides
+- 🐛 Fixed various Numpy-related error messages
 
-Select source directory
-Click "PROCESS" to analyze files in the listbox
-Wait for processing (10-20 seconds for larger files)
-Press "PLOT" to visualize results
-Use the new Legend toggle as needed
+## Usage Updates:
+
+1. Select source directory
+2. Click "PROCESS" to analyze files in the listbox
+3. Wait for processing (10-20 seconds for larger files)
+4. Press "PLOT" to visualize results
+5. Use the new Legend toggle as needed
 
 The folder processing button has been removed to streamline the workflow.
+
 Thank you for your continued support and feedback. This update aims to provide a more robust and user-friendly experience for PID tuning analysis.
 
 --------------------

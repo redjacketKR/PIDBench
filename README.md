@@ -18,7 +18,7 @@ I'm pleased to announce the release of PIDBench v0.9.1, featuring several improv
 
 1. Select source directory
 2. Click "PROCESS" to analyze files in the listbox
-3. Wait for processing (10-20 seconds for larger files)
+3. Wait for processing
 4. Press "PLOT" to visualize results
 5. Use the new Legend toggle as needed
 

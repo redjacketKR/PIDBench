@@ -27,7 +27,7 @@ The folder processing button has been removed to streamline the workflow.
 Thank you for your continued support and feedback. 
 
 <p align="center">
-  <img src="https://github.com/redjacketKR/PIDBench/blob/main/PIDBench_PKLGMB59ce.png" alt="PIDBench Main Window" width="1200"/>
+  <img src="https://github.com/redjacketKR/PIDBench/blob/main/PIDBench_v091_demo2.gif" alt="PIDBench Main Window" width="1200"/>
 </p>
 --------------------
 

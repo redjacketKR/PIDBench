@@ -26,8 +26,9 @@ The folder processing button has been removed to streamline the workflow.
 
 Thank you for your continued support and feedback. 
 
-[v0.9.1](https://github.com/redjacketKR/PIDBench/blob/main/PIDBench_PKLGMB59ce.png)
-
+<p align="center">
+  <img src="https://github.com/redjacketKR/PIDBench/blob/main/PIDBench_PKLGMB59ce.png" alt="PIDBench Main Window" width="1200"/>
+</p>
 --------------------
 
 **__How to Use the BBL File Processing Script__**

@@ -1,32 +1,20 @@
-🚀 **Exciting Update for PIDBench Users!** 🚀
+📢 v0.9.3 is now available! 🚁✨
 
-Introducing the Noise Analyzer, a powerful supplemental tool now included with PIDBench!
+What's new:
+- PIDBench: 
+  • PSD plot is now normalized for better comparison across different sampling times
+  • Fixed issues with 256Hz data appearing artificially better due to high frequency data absence
+  • Resolved bugs related to default configuration directory
+  • Improved display-related functions for enhanced user experience
 
-![Noise Analyzer Preview](https://github.com/redjacketKR/PIDBench/releases/download/v0.9.2/P8HNqJq1Od.png)
+- PB-Noise: 
+  • Updated UI elements for a smoother user experience
 
-📊 **Key Features:**
-- Raw Data Visualization
-- Power Spectral Density (PSD) Analysis
-- Fast Fourier Transform (FFT) Plots
-- Spectrogram Generation
-- Latency Cross-correlation Analysis
+- Installer:
+  • Changed from InstallForge to Nullsoft installer to address false positive detections of setup.exe
 
-🔧 **How to Use:**
-1. Load your CSV file
-2. Select data fields to analyze
-3. Explore different analysis tabs
-4. Adjust time ranges for detailed examination:
-   - Use mouse to select range on main plot (Tab 1)
-   - Input precise start/end times for fine-tuning
+Download the latest version from our GitHub releases page. As always, your feedback is appreciated!
 
-💡 **Perfect for:**
-- Identifying noise sources
-- Optimizing filter settings
-- Analyzing gyro data quality
-- Understanding system latencies
+Happy flying and tuning! 🎛️🔧
 
-This tool complements PIDBench, offering deeper insights into flight data. It's user-friendly yet powerful, designed to enhance the tuning process.
-
-🔗 Get the latest PIDBench release to access this new feature!
-
-Happy analyzing! 🚁📈
+![PIDBench v0.9.3](https://github.com/redjacketKR/PIDBench/releases/download/v0.9.3/python_OnVLHnP4yU.png)

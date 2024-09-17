@@ -3,7 +3,7 @@
 What's new:
 
 :wrench: PIDBench:
-- PSD plot now normalized for better comparison across different sampling times
+- Step Response plot now normalized for better comparison across different sampling times
 - Fixed issues with 256Hz data appearing artificially better due to high frequency data absence
 - Resolved bugs related to default configuration directory
 - Improved display-related functions for enhanced user experience

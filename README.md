@@ -1,21 +1,27 @@
-📢 v0.9.3 is now available! 🚁✨
+:loudspeaker: PIDBench v0.9.3 is now available! :helicopter::sparkles:
 
 What's new:
-- PIDBench: 
-  • PSD plot is now normalized for better comparison across different sampling times
-  • Fixed issues with 256Hz data appearing artificially better due to high frequency data absence
-  • Resolved bugs related to default configuration directory
-  • Improved display-related functions for enhanced user experience
 
-- PB-Noise: 
-  • Updated UI elements for a smoother user experience
+:wrench: PIDBench:
+- PSD plot now normalized for better comparison across different sampling times
+- Fixed issues with 256Hz data appearing artificially better due to high frequency data absence
+- Resolved bugs related to default configuration directory
+- Improved display-related functions for enhanced user experience
 
-- Installer:
-  • Changed from InstallForge to Nullsoft installer to address false positive detections of setup.exe
+:loud_sound: PB-Noise:
+- Updated UI elements for a smoother user experience
+- Added PSD comparison tool
 
-Download the latest version from our GitHub releases page. As always, your feedback is appreciated!
+:tools: Installer:
+- Switched from InstallForge to Nullsoft installer to address false positive detections of setup.exe
 
-Happy flying and tuning! 🎛️🔧
+Download the latest version from our GitHub releases page:
+https://github.com/redjacketKR/PIDBench/releases/tag/v0.9.3
+https://github.com/redjacketKR/PIDBench/releases/download/v0.9.3/PIDBench_v0.9.3_setup.exe
+As always, your feedback is appreciated!
+Happy flying and tuning! :control_knobs::wrench:
+
+Happy Choosuk (Korean Thanksgiving)!
 
 ![PIDBench v0.9.3](https://github.com/redjacketKR/PIDBench/releases/download/v0.9.3/python_OnVLHnP4yU.png)
 ![PIDBench v0.9.3](https://github.com/redjacketKR/PIDBench/releases/download/v0.9.3/PIDBench_dk4m3kQUI6.png)

@@ -16,9 +16,13 @@ What's new:
 - Switched from InstallForge to Nullsoft installer to address false positive detections of setup.exe
 
 Download the latest version from our GitHub releases page:
+
 https://github.com/redjacketKR/PIDBench/releases/tag/v0.9.3
+
 https://github.com/redjacketKR/PIDBench/releases/download/v0.9.3/PIDBench_v0.9.3_setup.exe
+
 As always, your feedback is appreciated!
+
 Happy flying and tuning! :control_knobs::wrench:
 
 Happy Choosuk (Korean Thanksgiving)!

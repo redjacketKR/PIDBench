@@ -27,5 +27,22 @@ Happy flying and tuning! :control_knobs::wrench:
 
 Happy Choosuk (Korean Thanksgiving)!
 
+PS.
+
+Completely uninstall previous version and install new one. 
+
+If you happen to install over the old one got and error, then you can 
+
+uninstall
+
+Delete "C:\Program Files (x86)\redjacketRC\PIDBench"  folder 
+
+reinstall
+
+will solve your problem.
+version collision with old library. 
+
+Actually, I mentioned this previous version one time, but I forgot this time. :sweat_smile:
+
 ![PIDBench v0.9.3](https://github.com/redjacketKR/PIDBench/releases/download/v0.9.3/python_OnVLHnP4yU.png)
 ![PIDBench v0.9.3](https://github.com/redjacketKR/PIDBench/releases/download/v0.9.3/PIDBench_dk4m3kQUI6.png)

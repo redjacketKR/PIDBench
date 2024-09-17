@@ -18,3 +18,4 @@ Download the latest version from our GitHub releases page. As always, your feedb
 Happy flying and tuning! 🎛️🔧
 
 ![PIDBench v0.9.3](https://github.com/redjacketKR/PIDBench/releases/download/v0.9.3/python_OnVLHnP4yU.png)
+![PIDBench v0.9.3](https://github.com/redjacketKR/PIDBench/releases/download/v0.9.3/PIDBench_dk4m3kQUI6.png)

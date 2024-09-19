@@ -1,48 +1,35 @@
-:loudspeaker: PIDBench v0.9.3 is now available! :helicopter::sparkles:
+# PIDBench v0.9.4 Release Notes
 
-What's new:
+It's excited to announce the release of PIDBench v0.9.4, featuring bug fixes and several improvements.
 
-:wrench: PIDBench:
-- Step Response plot now normalized for better comparison across different sampling times
-- Fixed issues with 256Hz data appearing artificially better due to high frequency data absence
-- Resolved bugs related to default configuration directory
-- Improved display-related functions for enhanced user experience
+## 🎨 Improved UI and User Experience
+- Button labels renamed to clearly reflect their functionality
+- Fixed figure toolbar disappearance issue
+- Resolved default file name bug in save dialogues
 
-:loud_sound: PB-Noise:
-- Updated UI elements for a smoother user experience
-- Added PSD comparison tool
+## 🔍 Enhanced Zooming Functionality
+- Implemented intuitive mouse click-and-drag zooming
+- Added ability to zoom by entering specific time values and press {ENTER}
 
-:tools: Installer:
-- Switched from InstallForge to Nullsoft installer to address false positive detections of setup.exe
+## 🆕 New Features
+- Added Compare Latencies functionality for in-depth analysis across multiple logs
 
-Download the latest version from our GitHub releases page:
+## 📊 Enhanced Plotting and Analysis
+- Refined PSD, FFT, and Spectrogram plots with improved data handling and visualization
+- Upgraded latency analysis plots with more detailed information and statistics
 
-https://github.com/redjacketKR/PIDBench/releases/tag/v0.9.3
+## 📁 Improved File Handling
+- Enhanced file selection dialogs and directory management
+- Better integration with config files for remembering last used directories
 
-https://github.com/redjacketKR/PIDBench/releases/download/v0.9.3/PIDBench_v0.9.3_setup.exe
+## 🛠 General Improvements
+- Improved overall code organization and modularity
 
-As always, your feedback is appreciated!
+## 📏 New Latency Evaluation Tools
+- Introduced advanced tools for more precise latency analysis and comparison
 
-Happy flying and tuning! :control_knobs::wrench:
+All users are encouraged to update to this latest version for an enhanced tuning and analysis experience. Your feedback and suggestions are always welcome!
 
-Happy Choosuk (Korean Thanksgiving)!
+**Important Note**: If you are upgrading from a version prior to v0.9.3, please completely uninstall the previous version before installing v0.9.4 to ensure all new features work correctly.
 
-PS.
-
-Completely uninstall previous version and install new one. 
-
-If you happen to install over the old one got and error, then you can 
-
-uninstall
-
-Delete "C:\Program Files (x86)\redjacketRC\PIDBench"  folder 
-
-reinstall
-
-will solve your problem.
-version collision with old library. 
-
-Actually, I mentioned this previous version one time, but I forgot this time. :sweat_smile:
-
-![PIDBench v0.9.3](https://github.com/redjacketKR/PIDBench/releases/download/v0.9.3/python_OnVLHnP4yU.png)
-![PIDBench v0.9.3](https://github.com/redjacketKR/PIDBench/releases/download/v0.9.3/PIDBench_dk4m3kQUI6.png)
+![New Latency Evaluation Tools](https://github.com/redjacketKR/PIDBench/releases/download/v0.9.4/python_PWDxoUo2Pz.png)

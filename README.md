@@ -33,3 +33,4 @@ All users are encouraged to update to this latest version for an enhanced tuning
 **Important Note**: If you are upgrading from a version prior to v0.9.3, please completely uninstall the previous version before installing v0.9.4 to ensure all new features work correctly.
 
 ![New Latency Evaluation Tools](https://github.com/redjacketKR/PIDBench/releases/download/v0.9.4/python_PWDxoUo2Pz.png)
+![New Latency Evaluation Tools](https://github.com/redjacketKR/PIDBench/releases/download/v0.9.4/python_43IgGUmSnG.png)
